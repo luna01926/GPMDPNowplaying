@@ -1,0 +1,16 @@
+{
+  "name": "gpmdpnowplaying",
+  "version": "0.0.1",
+  "description": "GPMDP用のなうぷれ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "luna01926",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "twitter": "^1.7.1",
+    "ws": "^3.3.1"
+  }
+}
